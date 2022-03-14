@@ -1,2 +1,0 @@
-- name: Slack Webhook for GitHub Actions
-  uses: craftech-io/slack-action@v1
