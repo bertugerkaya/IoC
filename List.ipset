@@ -1,9 +1,15 @@
 # Maintainer      : Bertuğ ERKAYA , Onur ULUSOY
-# Entries         : 2282 unique IPs
+# Entries         : 2288 unique IPs
 # Attack Vectors  : Malware, DDoS, Ransomware, Brute-Force, Phishing and Vulnerabilities
-# Last Update     : 21.03.2022
-# Note            : Block this IP addresses at least 2 week
+# Last Update     : 28.03.2022
+# Note            : 
 
+54.242.18.87
+54.144.244.11
+54.197.124.239
+170.210.45.163
+146.185.136.187
+119.90.42.89
 34.71.81.158
 35.184.204.221
 34.105.85.231
