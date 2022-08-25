@@ -1,9 +1,10 @@
 # Maintainer      : Bertuğ ERKAYA , Onur ULUSOY
 # Attack Vectors  : Malware, DDoS, Ransomware, Brute-Force, Phishing and Vulnerabilities
-# Last Update     : 22.08.2022
-# Note            :  + CnC
+# Last Update     : 25.08.2022
+# Note            :  + CnC + Phishing
 
 
+91.194.11.19
 34.92.30.54
 152.32.153.134
 152.32.211.67
