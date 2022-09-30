@@ -1,9 +1,26 @@
 # Maintainer      : Bertuğ ERKAYA , Onur ULUSOY , Salim Doğan CESUR
 # Attack Vectors  : Malware, DDoS, Ransomware, Brute-Force, Phishing and Vulnerabilities
-# Last Update     : 27.09.2022
-# Note            :  + Malware IOCs
+# Last Update     : 30.09.2022
+# Note            :  + Exchange ZeroDay 
 
 
+125.212.220.48
+5.180.61.17
+47.242.39.92
+61.244.94.85
+86.48.6.69
+86.48.12.64
+94.140.8.48
+94.140.8.113
+103.9.76.208
+103.9.76.211
+104.244.79.6
+112.118.48.186
+122.155.174.188
+125.212.241.134
+185.220.101.182
+194.150.167.88
+212.119.34.11
 123.30.137.117
 77.241.93.160
 117.18.68.82
